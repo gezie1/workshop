@@ -1,2 +1,6 @@
 selfintro
+<<<<<<< HEAD
 i like color
+=======
+i like hobby
+>>>>>>> apple
